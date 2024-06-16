@@ -1,5 +1,5 @@
 ﻿# ChatConnect
-##Chatting App features :
+## Chatting App features :
 Direct Messaging: 
 Enable users to have one-on-one private conversations with other users. This feature allows for personal and more intimate communication.
 
